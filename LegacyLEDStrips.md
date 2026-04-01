@@ -1,0 +1,15 @@
+
+SMD 5050
+
+LTRGBW
+
+5M/360LED
+
+DC 24V
+
+72 WATTS
+
+Waterproof IP65
+
+RGB+WW
+
